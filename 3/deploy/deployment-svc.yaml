@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: myweb
-        image: gasida/myweb:v1.0.0
+        image: okms1017/myweb:v1.0.0
       terminationGracePeriodSeconds: 0
 ---
 apiVersion: v1
